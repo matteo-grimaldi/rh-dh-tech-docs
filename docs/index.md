@@ -15,4 +15,6 @@ This documentation provides technical and operational details for the **Quarkus 
 - Containerized and Kubernetes-ready
 - Observability with Micrometer
 
+## 📜 Blueprint
+
 ![Architecture](assets/diagrams/architecture.png)
