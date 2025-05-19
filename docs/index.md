@@ -14,3 +14,5 @@ This documentation provides technical and operational details for the **Quarkus 
 - PostgreSQL persistence
 - Containerized and Kubernetes-ready
 - Observability with Micrometer
+
+![Architecture](assets/diagrams/architecture.png)
